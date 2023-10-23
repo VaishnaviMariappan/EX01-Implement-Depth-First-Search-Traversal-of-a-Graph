@@ -1,7 +1,7 @@
 # EXP01-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-#### NAME: Aashima Nazreen Sayeed S
-#### REG NO: 212221240002
+#### NAME: Vaishnavi M
+#### REG NO: 212221240058
 
 ## AIM:
 To Implement Depth First Search Traversal of a Graph using Python 3.
